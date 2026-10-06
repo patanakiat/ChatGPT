@@ -2,6 +2,10 @@
 
 All notable changes to `chatgpt-php` will be documented in this file.
 
+## v1.0.0 - 2026-10-06
+
+Fixed several issues
+
 ## 2.1.2 - 2023-07-17
 
 1. fix undefined paid.
